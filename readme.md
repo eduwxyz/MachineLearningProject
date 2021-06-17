@@ -1,8 +1,8 @@
  # Partes do Projeto
  * [Abertura e análise inicial dos dados;](https://github.com/DevShy/MachineLearningProject/blob/main/parte1/abertura_an%C3%A1lise_dados.md)  
- * [Visualização dos dados;](#primeiros-passos)  
- * [Tratamento de valores;](#leitura-da-base)  
- * [NaiveBayes - Algoritmo](#explora%C3%A7%C3%A3o-dos-dados-in%C3%ADcio)  
+ * [Visualização dos dados;](https://github.com/DevShy/MachineLearningProject/blob/main/parte2/visualizacao_dados.md)  
+ * [Tratamento de valores;](https://github.com/DevShy/MachineLearningProject/blob/main/parte3/tratamento_valores.md)  
+ * [NaiveBayes - Algoritmo](https://github.com/DevShy/MachineLearningProject/blob/main/parte4/naivebayes.md)  
 
 # O que é Machine Learning?
 
