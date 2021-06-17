@@ -1,5 +1,5 @@
  # Partes do Projeto
- * [Abertura e análise inicial dos dados;](#o-que-%C3%A9-machine-learning)  
+ * [Abertura e análise inicial dos dados;](https://github.com/DevShy/MachineLearningProject/blob/main/parte1/abertura_an%C3%A1lise_dados.md)  
  * [Visualização dos dados;](#primeiros-passos)  
  * [Tratamento de valores;](#leitura-da-base)  
  * [NaiveBayes - Algoritmo](#explora%C3%A7%C3%A3o-dos-dados-in%C3%ADcio)  
